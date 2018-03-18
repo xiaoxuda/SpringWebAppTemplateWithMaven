@@ -27,7 +27,7 @@
 
   <name>StudentManager</name>
   <groupId>cn.orditech</groupId>
-  <artifactId>springwebapp</artifactId>
+  <artifactId>StudentManager</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <build>
