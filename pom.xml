@@ -25,7 +25,7 @@
   <modelVersion>4.0.0</modelVersion>
   <packaging>war</packaging>
 
-  <name>SpringWebAppTemplateWithMaven</name>
+  <name>StudentManager</name>
   <groupId>cn.orditech</groupId>
   <artifactId>springwebapp</artifactId>
   <version>1.0-SNAPSHOT</version>
@@ -220,6 +220,12 @@
           <groupId>javax.servlet.jsp</groupId>
           <artifactId>jsp-api</artifactId>
           <version>2.2</version>
+      </dependency>
+
+      <dependency>
+          <groupId>javax.mail</groupId>
+          <artifactId>javax.mail-api</artifactId>
+          <version>1.5.6</version>
       </dependency>
 
   </dependencies>
